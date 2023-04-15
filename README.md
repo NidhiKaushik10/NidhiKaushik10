@@ -1,3 +1,4 @@
+![logo](https://github.com/NidhiKaushik10/NidhiKaushik10/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
 <h3 align="center">A passionate Software developer</h3>
 
